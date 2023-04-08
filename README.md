@@ -1,2 +1,2 @@
 # SQL with Node, Express and React JS
-Se crea una conexión a SQL utilizando node, express y react
+Se crea una aplicación en React con conexión a SQL utilizando express
